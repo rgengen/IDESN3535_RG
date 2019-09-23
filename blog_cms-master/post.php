@@ -8,6 +8,7 @@
                 <?php include 'nav.php' ?>
           <body>
  <div id="content">
+         
                 <main>
                         <div style="background-color:lightblue">
                                 <h1>Post 1 09/22/2019</h1>
