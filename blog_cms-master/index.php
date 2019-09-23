@@ -6,6 +6,7 @@
                 <link rel="stylesheet" type="text/css" href="format.css" />
                 
                         <div id="header">
+                                
     <header><h1>CMS Blog</h1></header>
     <nav>
             <a href="/index.html" >Home</a> |
