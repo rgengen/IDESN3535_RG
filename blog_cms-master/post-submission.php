@@ -10,8 +10,8 @@
     </div>
 
     <nav>
-            <a href="/index.html" >Home</a> |
-            <a href="/post-submission.html">Submit A Post</a> |
+            <a href="/index.php" >Home</a> |
+            <a href="/post-submission.php">Submit A Post</a> |
             
           </nav> 
         </div>
