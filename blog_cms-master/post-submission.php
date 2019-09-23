@@ -4,8 +4,8 @@
                 Hello World CMS Blog
                 </title>
                 <link rel="stylesheet" type="text/css" href="format.css" />
-                <? include 'header.php' ?>
-    <nav>
+                <?php include 'header.php' ?>
+                <?php include 'nav.php' ?>
             <a href="/index.php" >Home</a> |
             <a href="/post-submission.php">Submit A Post</a> |
             
@@ -26,11 +26,6 @@
                           </form> 
                 </main>
                 </div>
-                <div id="footer">
-                <footer>
-                        <p>Created by Rosa Genetti 2019</p>
-                
-                      </footer>     
-</div>
+        <?php include "footer.php" ?> 
 </head>
 </html>

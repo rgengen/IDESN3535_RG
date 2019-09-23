@@ -5,8 +5,8 @@
                 </title>
                 <link rel="stylesheet" type="text/css" href="format.css" />
                 
-                <? include "header.php" ?>
-          
+                <?php include 'header.php' ?>
+                <?php include 'nav.php' ?>
           <body>
                 <div id="content">
                 <main>
@@ -16,12 +16,7 @@
                               </ul> 
                 </main>
         </div> <!--close for content-->
-        <div id="footer">
-                <footer>
-                        <p>Created by Rosa Genetti 2019</p>
-                
-                      </footer>     
-
+        <?php include "footer.php" ?> 
                       </div>
 </head>
 </html>
