@@ -4,11 +4,7 @@
                 Hello World CMS Blog
                 </title>
                 <link rel="stylesheet" type="text/css" href="format.css" />
-    <div id="header">
-
-    <header><h1>CMS Blog</h1></header>
-    </div>
-
+                <? include 'header.php' ?>
     <nav>
             <a href="/index.php" >Home</a> |
             <a href="/post-submission.php">Submit A Post</a> |

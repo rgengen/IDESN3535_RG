@@ -5,16 +5,7 @@
                 </title>
                 <link rel="stylesheet" type="text/css" href="format.css" />
                 
-                        <div id="header">
-                                
-    <header><h1>CMS Blog</h1></header>
-    <nav>
-            <a href="/index.php" >Home</a> |
-            <a href="/post-submission.php">Submit A Post</a> |
-
-            
-          </nav> 
-          </div> <!--close for header-->
+                <? include "header.php" ?>
           
           <body>
                 <div id="content">
